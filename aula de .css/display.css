@@ -1,0 +1,31 @@
+/*
+DISPLAY 
+
+-block
+-inline
+-inline-block
+
+-GRID
+-flex
+
+-BLOCK
+vem como padrão: viv, section, p, h1, h2, ul, li,article...
+-Ocupa 100% da largura do elemento pai
+-sempre ocupa toda a sua linnha 
+-Altura definida de acordo com o conteúdo
+-Podemos definir heigth e width
+-Podemos definir valores de margin
+
+-INLINE
+Vem como padrão a, spam, b, i ...
+-Elementos em linha 
+-Não permite alterar height e width
+-Não podemos definir valores de margin top e bottom
+-Ganha comportamento de uma palavra
+
+-INLINE-BLOCK
+-Elementos em linha, porém com caracteristicas do display block
+-Altura e largura podem ser alteradas
+
+
+/*
